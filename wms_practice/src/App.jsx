@@ -1,6 +1,6 @@
 // import { useState } from 'react'
-import { Navbar } from './components/Navbar.jsx'
-import { QtysCard } from './components/QtysCard.jsx'
+import { Navbar } from "./components/Navbar.jsx"
+import { QtysCard } from "./components/QtysCard.jsx"
 import './App.css'
 
 const cardsData = [
